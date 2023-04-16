@@ -1,0 +1,2 @@
+### For the instructions follow the link https://www.freecodecamp.org/espanol/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors<br>
+### This one can be run on https://replit.com/@LautaroOchotore/Rockpaper-and-scissors<br>
