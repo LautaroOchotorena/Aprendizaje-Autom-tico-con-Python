@@ -1,3 +1,4 @@
+<h2> Clarification: This project was created using Replit, you can check it on https://replit.com/@LautaroOchotore/Rockpaper-and-scissors</h2>
 <h1> Rock Paper Scissors </h1>
 <div><section id="instructions">
 <p>In the file <code>RPS.py</code> you are provided with a function called <code>player</code>. The function takes an argument that is a string describing the last move of the opponent ("R", "P", or "S"). The function should return a string representing the next move for it to play ("R", "P", or "S").</p>
