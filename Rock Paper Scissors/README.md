@@ -24,4 +24,4 @@
 <h2>Submitting</h2>
 <p>Copy your project's URL and submit it below.</p>
 </section></div>
-### This one can be run on https://replit.com/@LautaroOchotore/Rockpaper-and-scissors<br>
+<h2> This one can be run on https://replit.com/@LautaroOchotore/Rockpaper-and-scissors</h2>
