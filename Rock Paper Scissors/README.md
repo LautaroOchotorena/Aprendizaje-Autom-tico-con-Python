@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-The objective is to beat all the opponents with 60% of wins in the game Rock, Paper and Scissors.
+The **objective** is to beat all the opponents with 60% of wins in the game Rock, Paper and Scissors.
 
 [**Instructions**](https://github.com/LautaroOchotorena/Machine-Learning-with-Python-FreeCodeCamp/blob/main/Rock%20Paper%20Scissors/Instructions.md) are provided.
 
