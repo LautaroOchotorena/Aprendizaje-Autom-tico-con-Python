@@ -3,5 +3,5 @@ This is a **course** taken in **FreeCodeCamp**. To complete it, I had to create 
 
 All the projects have a link to **run** the files **without downloading** anything.
 
-**Principal libraries**:<br>
+**Main libraries**:<br>
 Pandas, Numpy, TensorFlow y Keras.
