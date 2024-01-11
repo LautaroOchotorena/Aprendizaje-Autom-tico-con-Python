@@ -10,4 +10,4 @@ The file [**players strategies**](https://github.com/LautaroOchotorena/Machine-L
 
 The file [**main**](https://github.com/LautaroOchotorena/Machine-Learning-with-Python-FreeCodeCamp/blob/main/Rock%20Paper%20Scissors/main.py) is a **test** to be sure I completed the objective.
 
-You can also **check it out** [**here**](https://replit.com/@LautaroOchotore/Rockpaper-and-scissors) and run it without downloading anything.
+You can also **check it out** [**here**](https://replit.com/@LautaroOchotore/Rockpaper-and-scissors), to run it you have to be logged in and fork the proyect.
